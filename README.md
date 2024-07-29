@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/manikgoyal400" target="blank"><img src="https://img.shields.io/twitter/follow/manikgoyal400?logo=twitter&style=for-the-badge" alt="manikgoyal400" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI(Deep Learning) and Mongo DB + Express JS**
+
 
 - 💬 Ask me about **Machine Learning , Deep Learning and React Fronted**
 
