@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **manikgoyal400@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/8ihfdh4xq01546t7uf6tw/Manik-3.pdf?rlkey=4kf3i1x10dwssafw2t5ryo794&st=5pixgu5c&dl=0](https://www.dropbox.com/scl/fi/8ihfdh4xq01546t7uf6tw/Manik-3.pdf?rlkey=4kf3i1x10dwssafw2t5ryo794&st=5pixgu5c&dl=0)
+- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/c18r02832msy38ieyccl8/Manik-Goyal-_-USICT_19Sept.pdf?rlkey=qks4v7at86vltd5qo1lj25y3y&st=cae5xc58&dl=0](https://www.dropbox.com/scl/fi/c18r02832msy38ieyccl8/Manik-Goyal-_-USICT_19Sept.pdf?rlkey=qks4v7at86vltd5qo1lj25y3y&st=cae5xc58&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
