@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **Machine Learning , Deep Learning and React Fronted**
+- 💬 Ask me about **Machine Learning , Deep Learning and Angular Development**
 
 - 📫 How to reach me **manikgoyal400@gmail.com**
 
