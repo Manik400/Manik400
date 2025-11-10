@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **Machine Learning , Deep Learning and Angular Development**
+- 💬 Ask me about **Machine Learning , Deep Learning , Angular Development and DotNet**
 
 - 📫 How to reach me **manikgoyal400@gmail.com**
 
